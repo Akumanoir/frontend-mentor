@@ -7,7 +7,7 @@ Desafios foram tirados do site [Front End Mentor](https://www.frontendmentor.io/
 
 | Nº | Nome                     | Data Início  | Data Término | Acesso                                           |
 | -- | :------                  | ------------ | ------------ | ------------------------------------------------ |
-| 1º |   avaliação interativa   | 22/08/2023   |  --/--/--    | [Acesse aqui](./interactive-rating-01/index.html)|
+| 1º |   avaliação interativa   | 22/08/2023   |  29/08/2022  | [Acesse aqui](./interactive-rating-01/index.html)|
 
 ---
 
